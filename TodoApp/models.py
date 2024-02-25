@@ -1,5 +1,7 @@
 from django.db import models
 
+#if You want to add more Models means tables in SQL, you can add here
+
 # Create your models here.
 
 class TodoTable(models.Model):
