@@ -5,4 +5,4 @@ from TodoApp.models import TodoTable
 
 #Register Todo Table in Admin Portal
 
-admin.site.models(TodoTable)
+admin.site.register(TodoTable)
