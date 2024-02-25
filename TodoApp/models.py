@@ -1,5 +1,9 @@
 from django.db import models
 
+#if You want to add more Models means tables in SQL, you can add here
+
+# Try to change here and will see same changes apply in remote or not and Latest Changes
+
 # Create your models here.
 
 class TodoTable(models.Model):
